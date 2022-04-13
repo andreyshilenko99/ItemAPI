@@ -1,4 +1,4 @@
-package com.example.itemapi;
+package service;
 
 
 import org.springframework.beans.factory.annotation.Value;
